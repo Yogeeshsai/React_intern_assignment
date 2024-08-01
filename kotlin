@@ -1,0 +1,21 @@
+springdale-school/
+├── public/
+│   ├── logo.png
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Home.js
+│   │   ├── AboutUs.js
+│   │   ├── Academics.js
+│   │   ├── Admissions.js
+│   │   ├── Faculty.js
+│   │   ├── Students.js
+│   │   ├── Gallery.js
+│   │   ├── ContactUs.js
+│   │   └── Navbar.js
+│   ├── App.js
+│   ├── index.js
+│   ├── App.css
+│   ├── index.css
+│   └── data.js
